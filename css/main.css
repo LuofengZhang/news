@@ -26,6 +26,10 @@ img,
     margin-bottom: 5px;
 }
 
+.navbar-nav li{
+	text-align: center;
+}
+
 .side-bar .list-group-item.active {
     background-color: #ea0c3c;
 }
