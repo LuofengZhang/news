@@ -21,6 +21,10 @@ img,
     background-position: center center;
 }
 
+.navbar-nav li{
+	text-align: center;
+}
+
 .side-bar .list-group-item {
     border: 0;
     margin-bottom: 5px;
